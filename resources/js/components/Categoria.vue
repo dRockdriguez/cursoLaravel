@@ -56,7 +56,7 @@
                                         <div v-else>
                                             <span class="badge badge-danger">Inactivo</span>
                                         </div>
-                                    </td>
+                                    </td> 
                                 </tr>
                             </tbody>
                         </table>
